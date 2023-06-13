@@ -9,6 +9,9 @@
   "keywords": [
     "lacerba"
   ],
-  "author": "edomuraro",
-  "license": "ISC"
+  "author": "eddymuraro",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/eddymuraro/lacerba-first-project.git"
+  }
 }
